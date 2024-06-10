@@ -1,10 +1,490 @@
 [
     {
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "states",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "make_response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "make_response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "make_response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "make_response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "make_response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "models",
         "description": "models",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
         "detail": "models",
         "documentation": {}
     },
@@ -161,323 +641,60 @@
         "documentation": {}
     },
     {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
+        "label": "Amenity",
+        "importPath": "models.amenity",
+        "description": "models.amenity",
         "isExtraImport": true,
-        "detail": "models.base_model",
+        "detail": "models.amenity",
         "documentation": {}
     },
     {
-        "label": "Base",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
+        "label": "Amenity",
+        "importPath": "models.amenity",
+        "description": "models.amenity",
         "isExtraImport": true,
-        "detail": "models.base_model",
+        "detail": "models.amenity",
         "documentation": {}
     },
     {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
+        "label": "json",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "Base",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "Base",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "Base",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "Base",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "Base",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "Base",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
         "documentation": {}
     },
     {
         "label": "City",
-        "importPath": "models.city",
-        "description": "models.city",
+        "importPath": "models.state",
+        "description": "models.state",
         "isExtraImport": true,
-        "detail": "models.city",
+        "detail": "models.state",
         "documentation": {}
     },
     {
-        "label": "City",
-        "importPath": "models.city",
-        "description": "models.city",
+        "label": "State",
+        "importPath": "models.state",
+        "description": "models.state",
         "isExtraImport": true,
-        "detail": "models.city",
+        "detail": "models.state",
         "documentation": {}
     },
     {
-        "label": "City",
-        "importPath": "models.city",
-        "description": "models.city",
+        "label": "State",
+        "importPath": "models.state",
+        "description": "models.state",
         "isExtraImport": true,
-        "detail": "models.city",
+        "detail": "models.state",
         "documentation": {}
     },
     {
-        "label": "City",
-        "importPath": "models.city",
-        "description": "models.city",
+        "label": "State",
+        "importPath": "models.state",
+        "description": "models.state",
         "isExtraImport": true,
-        "detail": "models.city",
-        "documentation": {}
-    },
-    {
-        "label": "City",
-        "importPath": "models.city",
-        "description": "models.city",
-        "isExtraImport": true,
-        "detail": "models.city",
-        "documentation": {}
-    },
-    {
-        "label": "City",
-        "importPath": "models.city",
-        "description": "models.city",
-        "isExtraImport": true,
-        "detail": "models.city",
-        "documentation": {}
-    },
-    {
-        "label": "Place",
-        "importPath": "models.place",
-        "description": "models.place",
-        "isExtraImport": true,
-        "detail": "models.place",
-        "documentation": {}
-    },
-    {
-        "label": "Place",
-        "importPath": "models.place",
-        "description": "models.place",
-        "isExtraImport": true,
-        "detail": "models.place",
-        "documentation": {}
-    },
-    {
-        "label": "Place",
-        "importPath": "models.place",
-        "description": "models.place",
-        "isExtraImport": true,
-        "detail": "models.place",
-        "documentation": {}
-    },
-    {
-        "label": "Place",
-        "importPath": "models.place",
-        "description": "models.place",
-        "isExtraImport": true,
-        "detail": "models.place",
-        "documentation": {}
-    },
-    {
-        "label": "Place",
-        "importPath": "models.place",
-        "description": "models.place",
-        "isExtraImport": true,
-        "detail": "models.place",
-        "documentation": {}
-    },
-    {
-        "label": "Review",
-        "importPath": "models.review",
-        "description": "models.review",
-        "isExtraImport": true,
-        "detail": "models.review",
-        "documentation": {}
-    },
-    {
-        "label": "Review",
-        "importPath": "models.review",
-        "description": "models.review",
-        "isExtraImport": true,
-        "detail": "models.review",
-        "documentation": {}
-    },
-    {
-        "label": "Review",
-        "importPath": "models.review",
-        "description": "models.review",
-        "isExtraImport": true,
-        "detail": "models.review",
-        "documentation": {}
-    },
-    {
-        "label": "Review",
-        "importPath": "models.review",
-        "description": "models.review",
-        "isExtraImport": true,
-        "detail": "models.review",
-        "documentation": {}
-    },
-    {
-        "label": "Review",
-        "importPath": "models.review",
-        "description": "models.review",
-        "isExtraImport": true,
-        "detail": "models.review",
+        "detail": "models.state",
         "documentation": {}
     },
     {
@@ -521,6 +738,214 @@
         "documentation": {}
     },
     {
+        "label": "Review",
+        "importPath": "models.review",
+        "description": "models.review",
+        "isExtraImport": true,
+        "detail": "models.review",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "models.review",
+        "description": "models.review",
+        "isExtraImport": true,
+        "detail": "models.review",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "models.review",
+        "description": "models.review",
+        "isExtraImport": true,
+        "detail": "models.review",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "models.review",
+        "description": "models.review",
+        "isExtraImport": true,
+        "detail": "models.review",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "models.review",
+        "description": "models.review",
+        "isExtraImport": true,
+        "detail": "models.review",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "models.review",
+        "description": "models.review",
+        "isExtraImport": true,
+        "detail": "models.review",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "models.review",
+        "description": "models.review",
+        "isExtraImport": true,
+        "detail": "models.review",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models.place",
+        "description": "models.place",
+        "isExtraImport": true,
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models.place",
+        "description": "models.place",
+        "isExtraImport": true,
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models.place",
+        "description": "models.place",
+        "isExtraImport": true,
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models.place",
+        "description": "models.place",
+        "isExtraImport": true,
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models.place",
+        "description": "models.place",
+        "isExtraImport": true,
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models.place",
+        "description": "models.place",
+        "isExtraImport": true,
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models.place",
+        "description": "models.place",
+        "isExtraImport": true,
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models.place",
+        "description": "models.place",
+        "isExtraImport": true,
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
         "label": "User",
         "importPath": "models.user",
         "description": "models.user",
@@ -558,6 +983,222 @@
         "description": "models.user",
         "isExtraImport": true,
         "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "NotFound",
+        "importPath": "werkzeug.exceptions",
+        "description": "werkzeug.exceptions",
+        "isExtraImport": true,
+        "detail": "werkzeug.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
         "documentation": {}
     },
     {
@@ -883,15 +1524,6 @@
         "documentation": {}
     },
     {
-        "label": "json",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "json",
-        "description": "json",
-        "detail": "json",
-        "documentation": {}
-    },
-    {
         "label": "datetime",
         "importPath": "datetime",
         "description": "datetime",
@@ -1082,142 +1714,6 @@
         "documentation": {}
     },
     {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "render_template",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "render_template",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "render_template",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "render_template",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "render_template",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "render_template",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
         "label": "local",
         "importPath": "fabric.api",
         "description": "fabric.api",
@@ -1332,6 +1828,402 @@
         "documentation": {}
     },
     {
+        "label": "get_amenities",
+        "kind": 2,
+        "importPath": "api.v1.views.amenities",
+        "description": "api.v1.views.amenities",
+        "peekOfCode": "def get_amenities():\n    amenities = storage.all(Amenity).values()\n    amenities_list = [amenity.to_dict() for amenity in amenities]\n    return jsonify(amenities_list)\n@app_views.route('/amenities/<amenity_id>',\n                 methods=['GET'],\n                 strict_slashes=False)\ndef get_amenity(amenity_id):\n    amenity = storage.get(Amenity, amenity_id)\n    if amenity is None:",
+        "detail": "api.v1.views.amenities",
+        "documentation": {}
+    },
+    {
+        "label": "get_amenity",
+        "kind": 2,
+        "importPath": "api.v1.views.amenities",
+        "description": "api.v1.views.amenities",
+        "peekOfCode": "def get_amenity(amenity_id):\n    amenity = storage.get(Amenity, amenity_id)\n    if amenity is None:\n        abort(404)\n    return jsonify(amenity.to_dict())\n@app_views.route('/amenities/<amenity_id>',\n                 methods=['DELETE'],\n                 strict_slashes=False)\ndef delete_amenity(amenity_id):\n    amenity = storage.get(Amenity, amenity_id)",
+        "detail": "api.v1.views.amenities",
+        "documentation": {}
+    },
+    {
+        "label": "delete_amenity",
+        "kind": 2,
+        "importPath": "api.v1.views.amenities",
+        "description": "api.v1.views.amenities",
+        "peekOfCode": "def delete_amenity(amenity_id):\n    amenity = storage.get(Amenity, amenity_id)\n    if amenity is None:\n        abort(404)\n    storage.delete(amenity)\n    storage.save()\n    return jsonify({}), 200\n@app_views.route('/amenities', methods=['POST'], strict_slashes=False)\ndef create_amenity():\n    if not request.get_json():",
+        "detail": "api.v1.views.amenities",
+        "documentation": {}
+    },
+    {
+        "label": "create_amenity",
+        "kind": 2,
+        "importPath": "api.v1.views.amenities",
+        "description": "api.v1.views.amenities",
+        "peekOfCode": "def create_amenity():\n    if not request.get_json():\n        abort(400, 'Not a JSON')\n    if 'name' not in request.get_json():\n        abort(400, 'Missing name')\n    amenity = Amenity(**request.get_json())\n    amenity.save()\n    return make_response(amenity.to_dict(), 201)\n@app_views.route('/amenities/<amenity_id>',\n                 methods=['PUT'],",
+        "detail": "api.v1.views.amenities",
+        "documentation": {}
+    },
+    {
+        "label": "update_amenity",
+        "kind": 2,
+        "importPath": "api.v1.views.amenities",
+        "description": "api.v1.views.amenities",
+        "peekOfCode": "def update_amenity(amenity_id):\n    amenity = storage.get(Amenity, amenity_id)\n    if amenity is None:\n        abort(404)\n    if not request.get_json():\n        abort(400, 'Not a JSON')\n    data = request.get_json()\n    ignore_keys = ['id', 'created_at', 'updated_at']\n    for key, value in data.items():\n        if key not in ignore_keys:",
+        "detail": "api.v1.views.amenities",
+        "documentation": {}
+    },
+    {
+        "label": "send_error",
+        "kind": 2,
+        "importPath": "api.v1.views.cities",
+        "description": "api.v1.views.cities",
+        "peekOfCode": "def send_error():\n    return abort(404, {\"error\": \"Not found\"})\ndef get_cities_by_state_id(state_id):\n    \"\"\"\n        Retrieves all cities by state_id\n    \"\"\"\n    for state in storage.all(State).values():\n        if state.id == state_id:\n            all_cities = [city.to_dict() for city in state.cities]\n            return make_response(all_cities, 200)",
+        "detail": "api.v1.views.cities",
+        "documentation": {}
+    },
+    {
+        "label": "get_cities_by_state_id",
+        "kind": 2,
+        "importPath": "api.v1.views.cities",
+        "description": "api.v1.views.cities",
+        "peekOfCode": "def get_cities_by_state_id(state_id):\n    \"\"\"\n        Retrieves all cities by state_id\n    \"\"\"\n    for state in storage.all(State).values():\n        if state.id == state_id:\n            all_cities = [city.to_dict() for city in state.cities]\n            return make_response(all_cities, 200)\n    return send_error()\ndef create_by_state_id(state_id, data: dict):",
+        "detail": "api.v1.views.cities",
+        "documentation": {}
+    },
+    {
+        "label": "create_by_state_id",
+        "kind": 2,
+        "importPath": "api.v1.views.cities",
+        "description": "api.v1.views.cities",
+        "peekOfCode": "def create_by_state_id(state_id, data: dict):\n    \"\"\"\n        Create a city by state_id\n    \"\"\"\n    print(state_id, data)\n    try:\n        # create city by state_id\n        city = City(**data)\n        if city.name is None:\n            abort(400, {\"error\": \"Missing name\"})",
+        "detail": "api.v1.views.cities",
+        "documentation": {}
+    },
+    {
+        "label": "get_cities_by_city_id",
+        "kind": 2,
+        "importPath": "api.v1.views.cities",
+        "description": "api.v1.views.cities",
+        "peekOfCode": "def get_cities_by_city_id(city_id):\n    \"\"\"\n        Returns a city by city_id\n    \"\"\"\n    for city in storage.all(City).values():\n        if city.id == city_id:\n            return make_response(city.to_dict(), 200)\n    return send_error()\ndef delete_by_id(city_id):\n    \"\"\"",
+        "detail": "api.v1.views.cities",
+        "documentation": {}
+    },
+    {
+        "label": "delete_by_id",
+        "kind": 2,
+        "importPath": "api.v1.views.cities",
+        "description": "api.v1.views.cities",
+        "peekOfCode": "def delete_by_id(city_id):\n    \"\"\"\n        Delete a city by city_id\n    \"\"\"\n    city = storage.get(City, city_id)\n    if city is None:\n        return send_error()\n    else:\n        city.delete()\n        storage.save()",
+        "detail": "api.v1.views.cities",
+        "documentation": {}
+    },
+    {
+        "label": "update_city_by_id",
+        "kind": 2,
+        "importPath": "api.v1.views.cities",
+        "description": "api.v1.views.cities",
+        "peekOfCode": "def update_city_by_id(city_id, data: dict):\n    \"\"\"\n        Update a city by city_id\n    \"\"\"\n    try:\n        cities = storage.all(City)\n        for city in cities.values():\n            if city.id == city_id:\n                for key in data:\n                    if (key not in unauthorized_keys):",
+        "detail": "api.v1.views.cities",
+        "documentation": {}
+    },
+    {
+        "label": "listen_states",
+        "kind": 2,
+        "importPath": "api.v1.views.cities",
+        "description": "api.v1.views.cities",
+        "peekOfCode": "def listen_states(state_id):\n    \"\"\"Retrieves list of all City object of a State\"\"\"\n    if (request.method == \"GET\"):\n        return get_cities_by_state_id(state_id)\n    return create_by_state_id(state_id, request.get_json())\n@app_views.route(\n    \"cities/<city_id>\",\n    methods=['GET', 'DELETE', 'PUT'],\n    strict_slashes=False\n)",
+        "detail": "api.v1.views.cities",
+        "documentation": {}
+    },
+    {
+        "label": "listen_cities",
+        "kind": 2,
+        "importPath": "api.v1.views.cities",
+        "description": "api.v1.views.cities",
+        "peekOfCode": "def listen_cities(city_id):\n    \"\"\"Retrieve a city by id\"\"\"\n    if (request.method == 'PUT'):\n        return update_city_by_id(city_id, request.get_json())\n    if (request.method == \"DELETE\"):\n        return delete_by_id(city_id)\n    return get_cities_by_city_id(city_id)",
+        "detail": "api.v1.views.cities",
+        "documentation": {}
+    },
+    {
+        "label": "unauthorized_keys",
+        "kind": 5,
+        "importPath": "api.v1.views.cities",
+        "description": "api.v1.views.cities",
+        "peekOfCode": "unauthorized_keys = {\n    \"id\": True,\n    \"state_id\": True,\n    \"created_at\": True,\n    \"updated_at\": True\n}\ndef update_city_by_id(city_id, data: dict):\n    \"\"\"\n        Update a city by city_id\n    \"\"\"",
+        "detail": "api.v1.views.cities",
+        "documentation": {}
+    },
+    {
+        "label": "return_status",
+        "kind": 2,
+        "importPath": "api.v1.views.index",
+        "description": "api.v1.views.index",
+        "peekOfCode": "def return_status():\n    \"\"\"Returns app_views object status as a JSON file\"\"\"\n    return jsonify({\"status\": \"OK\"})\n@app_views.route(\"/stats\", strict_slashes=False)\ndef return_stats():\n    \"\"\"Returns app_views object status as a JSON file\"\"\"\n    data = {}\n    data['amenities'] = storage.count(Amenity)\n    data['cities'] = storage.count(City)\n    data['places'] = storage.count(Place)",
+        "detail": "api.v1.views.index",
+        "documentation": {}
+    },
+    {
+        "label": "return_stats",
+        "kind": 2,
+        "importPath": "api.v1.views.index",
+        "description": "api.v1.views.index",
+        "peekOfCode": "def return_stats():\n    \"\"\"Returns app_views object status as a JSON file\"\"\"\n    data = {}\n    data['amenities'] = storage.count(Amenity)\n    data['cities'] = storage.count(City)\n    data['places'] = storage.count(Place)\n    data['reviews'] = storage.count(Review)\n    data['states'] = storage.count(State)\n    data['users'] = storage.count(User)\n    return jsonify(data)",
+        "detail": "api.v1.views.index",
+        "documentation": {}
+    },
+    {
+        "label": "get_places_by_city",
+        "kind": 2,
+        "importPath": "api.v1.views.places",
+        "description": "api.v1.views.places",
+        "peekOfCode": "def get_places_by_city(city_id):\n    city = storage.get(City, city_id)\n    if city is None:\n        abort(404)\n    places = [place.to_dict() for place in city.places]\n    return jsonify(places)\n@app_views.route('/places/<place_id>',\n                 methods=['GET'],\n                 strict_slashes=False)\ndef get_place(place_id):",
+        "detail": "api.v1.views.places",
+        "documentation": {}
+    },
+    {
+        "label": "get_place",
+        "kind": 2,
+        "importPath": "api.v1.views.places",
+        "description": "api.v1.views.places",
+        "peekOfCode": "def get_place(place_id):\n    place = storage.get(Place, place_id)\n    if place is None:\n        abort(404)\n    return jsonify(place.to_dict())\n@app_views.route('/places/<place_id>',\n                 methods=['DELETE'],\n                 strict_slashes=False)\ndef delete_place(place_id):\n    place = storage.get(Place, place_id)",
+        "detail": "api.v1.views.places",
+        "documentation": {}
+    },
+    {
+        "label": "delete_place",
+        "kind": 2,
+        "importPath": "api.v1.views.places",
+        "description": "api.v1.views.places",
+        "peekOfCode": "def delete_place(place_id):\n    place = storage.get(Place, place_id)\n    if place is None:\n        abort(404)\n    storage.delete(place)\n    storage.save()\n    return jsonify({}), 200\n@app_views.route('/cities/<city_id>/places',\n                 methods=['POST'],\n                 strict_slashes=False)",
+        "detail": "api.v1.views.places",
+        "documentation": {}
+    },
+    {
+        "label": "create_place",
+        "kind": 2,
+        "importPath": "api.v1.views.places",
+        "description": "api.v1.views.places",
+        "peekOfCode": "def create_place(city_id):\n    city = storage.get(City, city_id)\n    if city is None:\n        abort(404)\n    if not request.get_json(silent=True):\n        abort(400, 'Not a JSON')\n    data = request.get_json()\n    if 'user_id' not in data:\n        abort(400, 'Missing user_id')\n    user = storage.get(User, data['user_id'])",
+        "detail": "api.v1.views.places",
+        "documentation": {}
+    },
+    {
+        "label": "update_place",
+        "kind": 2,
+        "importPath": "api.v1.views.places",
+        "description": "api.v1.views.places",
+        "peekOfCode": "def update_place(place_id):\n    place = storage.get(Place, place_id)\n    if place is None:\n        abort(404)\n    if not request.get_json():\n        abort(400, 'Not a JSON')\n    data = request.get_json()\n    ignore_keys = ['id', 'user_id', 'city_id', 'created_at', 'updated_at']\n    for key, value in data.items():\n        if key not in ignore_keys:",
+        "detail": "api.v1.views.places",
+        "documentation": {}
+    },
+    {
+        "label": "get_reviews_by_place",
+        "kind": 2,
+        "importPath": "api.v1.views.places_reviews",
+        "description": "api.v1.views.places_reviews",
+        "peekOfCode": "def get_reviews_by_place(place_id):\n    place = storage.get(Place, place_id)\n    if place is None:\n        abort(404)\n    reviews = [review.to_dict() for review in place.reviews]\n    return jsonify(reviews)\n@app_views.route('/reviews/<review_id>',\n                 methods=['GET'],\n                 strict_slashes=False)\ndef get_review(review_id):",
+        "detail": "api.v1.views.places_reviews",
+        "documentation": {}
+    },
+    {
+        "label": "get_review",
+        "kind": 2,
+        "importPath": "api.v1.views.places_reviews",
+        "description": "api.v1.views.places_reviews",
+        "peekOfCode": "def get_review(review_id):\n    review = storage.get(Review, review_id)\n    if review is None:\n        abort(404)\n    return jsonify(review.to_dict())\n@app_views.route('/reviews/<review_id>',\n                 methods=['DELETE'],\n                 strict_slashes=False)\ndef delete_review(review_id):\n    review = storage.get(Review, review_id)",
+        "detail": "api.v1.views.places_reviews",
+        "documentation": {}
+    },
+    {
+        "label": "delete_review",
+        "kind": 2,
+        "importPath": "api.v1.views.places_reviews",
+        "description": "api.v1.views.places_reviews",
+        "peekOfCode": "def delete_review(review_id):\n    review = storage.get(Review, review_id)\n    if review is None:\n        abort(404)\n    storage.delete(review)\n    storage.save()\n    return jsonify({}), 200\n@app_views.route('/places/<place_id>/reviews',\n                 methods=['POST'],\n                 strict_slashes=False)",
+        "detail": "api.v1.views.places_reviews",
+        "documentation": {}
+    },
+    {
+        "label": "create_review",
+        "kind": 2,
+        "importPath": "api.v1.views.places_reviews",
+        "description": "api.v1.views.places_reviews",
+        "peekOfCode": "def create_review(place_id):\n    place = storage.get(Place, place_id)\n    if place is None:\n        abort(404)\n    if not request.get_json():\n        abort(400, 'Not a JSON')\n    data = request.get_json()\n    if 'user_id' not in data:\n        abort(400, 'Missing user_id')\n    user = storage.get(User, data['user_id'])",
+        "detail": "api.v1.views.places_reviews",
+        "documentation": {}
+    },
+    {
+        "label": "update_review",
+        "kind": 2,
+        "importPath": "api.v1.views.places_reviews",
+        "description": "api.v1.views.places_reviews",
+        "peekOfCode": "def update_review(review_id):\n    review = storage.get(Review, review_id)\n    if review is None:\n        abort(404)\n    if not request.get_json():\n        abort(400, 'Not a JSON')\n    data = request.get_json()\n    ignore_keys = ['id', 'user_id', 'place_id', 'created_at', 'updated_at']\n    for key, value in data.items():\n        if key not in ignore_keys:",
+        "detail": "api.v1.views.places_reviews",
+        "documentation": {}
+    },
+    {
+        "label": "send_error",
+        "kind": 2,
+        "importPath": "api.v1.views.states",
+        "description": "api.v1.views.states",
+        "peekOfCode": "def send_error():\n    return abort(404, {\"error\": \"Not found\"})\ndef get_all():\n    \"\"\"\"Returns list of all states\"\"\"\n    all_states_list = []\n    all_states = storage.all(State)\n    for id in all_states:\n        state = all_states[id]\n        all_states_list.append(state.to_dict())\n    return all_states_list",
+        "detail": "api.v1.views.states",
+        "documentation": {}
+    },
+    {
+        "label": "get_all",
+        "kind": 2,
+        "importPath": "api.v1.views.states",
+        "description": "api.v1.views.states",
+        "peekOfCode": "def get_all():\n    \"\"\"\"Returns list of all states\"\"\"\n    all_states_list = []\n    all_states = storage.all(State)\n    for id in all_states:\n        state = all_states[id]\n        all_states_list.append(state.to_dict())\n    return all_states_list\ndef get_by_id(state_id):\n    \"\"\"Retrieves a State object based on its id\"\"\"",
+        "detail": "api.v1.views.states",
+        "documentation": {}
+    },
+    {
+        "label": "get_by_id",
+        "kind": 2,
+        "importPath": "api.v1.views.states",
+        "description": "api.v1.views.states",
+        "peekOfCode": "def get_by_id(state_id):\n    \"\"\"Retrieves a State object based on its id\"\"\"\n    for state in get_all():\n        if state_id == state[\"id\"]:\n            return make_response(state, 200)\n    return send_error()\ndef delete_by_id(state_id):\n    \"\"\"Delete a state object based on its id\"\"\"\n    state = storage.get(State, state_id)\n    if state is None:",
+        "detail": "api.v1.views.states",
+        "documentation": {}
+    },
+    {
+        "label": "delete_by_id",
+        "kind": 2,
+        "importPath": "api.v1.views.states",
+        "description": "api.v1.views.states",
+        "peekOfCode": "def delete_by_id(state_id):\n    \"\"\"Delete a state object based on its id\"\"\"\n    state = storage.get(State, state_id)\n    if state is None:\n        return send_error()\n    else:\n        state.delete()\n        storage.save()\n        return make_response({}, 200)\ndef handle_request():",
+        "detail": "api.v1.views.states",
+        "documentation": {}
+    },
+    {
+        "label": "handle_request",
+        "kind": 2,
+        "importPath": "api.v1.views.states",
+        "description": "api.v1.views.states",
+        "peekOfCode": "def handle_request():\n    \"\"\"\n        Handles GET request for all State objects\n    \"\"\"\n    return make_response(get_all(), 200)\ndef handle_request_by_id(state_id: str):\n    \"\"\"\n        Handles GET and DELETE requests\n        for State objects\n    \"\"\"",
+        "detail": "api.v1.views.states",
+        "documentation": {}
+    },
+    {
+        "label": "handle_request_by_id",
+        "kind": 2,
+        "importPath": "api.v1.views.states",
+        "description": "api.v1.views.states",
+        "peekOfCode": "def handle_request_by_id(state_id: str):\n    \"\"\"\n        Handles GET and DELETE requests\n        for State objects\n    \"\"\"\n    if (request.method == \"PUT\"):\n        return update(state_id, request.get_json())\n    elif (request.method == \"GET\"):\n        return get_by_id(state_id)\n    elif (request.method == \"DELETE\"):",
+        "detail": "api.v1.views.states",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "kind": 2,
+        "importPath": "api.v1.views.states",
+        "description": "api.v1.views.states",
+        "peekOfCode": "def create():\n    \"\"\"\n        Creates a State object based on JSON request\n    \"\"\"\n    try:\n        state = State(**request.get_json(silent=True))\n        if state.name is None:\n            return make_response({\"error\": \"Missing name\"}, 400)\n        state.save()\n        return make_response(state.to_dict(), 201)",
+        "detail": "api.v1.views.states",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "api.v1.views.states",
+        "description": "api.v1.views.states",
+        "peekOfCode": "def update(state_id, data):\n    \"\"\"Update a state name by id\"\"\"\n    try:\n        states = storage.all(State)\n        for state in states.values():\n            if state.id == state_id:\n                for key in data:\n                    if (key not in unauthorized_keys):\n                        setattr(state, key, data[key])\n                state.save()",
+        "detail": "api.v1.views.states",
+        "documentation": {}
+    },
+    {
+        "label": "listen",
+        "kind": 2,
+        "importPath": "api.v1.views.states",
+        "description": "api.v1.views.states",
+        "peekOfCode": "def listen(state_id):\n    \"\"\"Retrieves list of all State objects\"\"\"\n    if state_id is None:\n        if (request.method == \"POST\"):\n            return create()\n        else:\n            return handle_request()\n    else:\n        return handle_request_by_id(state_id)",
+        "detail": "api.v1.views.states",
+        "documentation": {}
+    },
+    {
+        "label": "unauthorized_keys",
+        "kind": 5,
+        "importPath": "api.v1.views.states",
+        "description": "api.v1.views.states",
+        "peekOfCode": "unauthorized_keys = {\n    \"id\": True,\n    \"created_at\": True,\n    \"updated_at\": True\n}\ndef update(state_id, data):\n    \"\"\"Update a state name by id\"\"\"\n    try:\n        states = storage.all(State)\n        for state in states.values():",
+        "detail": "api.v1.views.states",
+        "documentation": {}
+    },
+    {
+        "label": "get_users",
+        "kind": 2,
+        "importPath": "api.v1.views.users",
+        "description": "api.v1.views.users",
+        "peekOfCode": "def get_users():\n    users = storage.all(User).values()\n    users_list = [user.to_dict() for user in users]\n    return jsonify(users_list)\n@app_views.route('/users/<user_id>', methods=['GET'], strict_slashes=False)\ndef get_user(user_id):\n    user = storage.get(User, user_id)\n    if user is None:\n        abort(404)\n    return jsonify(user.to_dict())",
+        "detail": "api.v1.views.users",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "api.v1.views.users",
+        "description": "api.v1.views.users",
+        "peekOfCode": "def get_user(user_id):\n    user = storage.get(User, user_id)\n    if user is None:\n        abort(404)\n    return jsonify(user.to_dict())\n@app_views.route('/users/<user_id>', methods=['DELETE'], strict_slashes=False)\ndef delete_user(user_id):\n    user = storage.get(User, user_id)\n    if user is None:\n        abort(404)",
+        "detail": "api.v1.views.users",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "api.v1.views.users",
+        "description": "api.v1.views.users",
+        "peekOfCode": "def delete_user(user_id):\n    user = storage.get(User, user_id)\n    if user is None:\n        abort(404)\n    storage.delete(user)\n    storage.save()\n    return jsonify({}), 200\n@app_views.route('/users', methods=['POST'], strict_slashes=False)\ndef create_user():\n    if not request.get_json():",
+        "detail": "api.v1.views.users",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "api.v1.views.users",
+        "description": "api.v1.views.users",
+        "peekOfCode": "def create_user():\n    if not request.get_json():\n        abort(400, 'Not a JSON')\n    if 'email' not in request.get_json(silent=True):\n        abort(400, 'Missing email')\n    if 'password' not in request.get_json(silent=True):\n        abort(400, 'Missing password')\n    user = User(**request.get_json(silent=True))\n    user.save()\n    return make_response(user.to_dict(), 201)",
+        "detail": "api.v1.views.users",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "api.v1.views.users",
+        "description": "api.v1.views.users",
+        "peekOfCode": "def update_user(user_id):\n    user = storage.get(User, user_id)\n    if user is None:\n        abort(404)\n    if not request.get_json():\n        abort(400, 'Not a JSON')\n    ignore_keys = ['id', 'email', 'created_at', 'updated_at']\n    for key, value in request.get_json(silent=True).items():\n        if key not in ignore_keys:\n            setattr(user, key, value)",
+        "detail": "api.v1.views.users",
+        "documentation": {}
+    },
+    {
+        "label": "teardown_db",
+        "kind": 2,
+        "importPath": "api.v1.app",
+        "description": "api.v1.app",
+        "peekOfCode": "def teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\n@my_app.errorhandler(NotFound)\ndef handle_404_error(e):\n    \"\"\"\n        Handles 404 errors and returns a\n        JSON-formatted 404 status code response\n    \"\"\"\n    return jsonify({\"error\": \"Not found\"}), 404",
+        "detail": "api.v1.app",
+        "documentation": {}
+    },
+    {
+        "label": "handle_404_error",
+        "kind": 2,
+        "importPath": "api.v1.app",
+        "description": "api.v1.app",
+        "peekOfCode": "def handle_404_error(e):\n    \"\"\"\n        Handles 404 errors and returns a\n        JSON-formatted 404 status code response\n    \"\"\"\n    return jsonify({\"error\": \"Not found\"}), 404\nif __name__ == '__main__':\n    my_app.run(host='0.0.0.0', port='5000', threaded=True)",
+        "detail": "api.v1.app",
+        "documentation": {}
+    },
+    {
+        "label": "my_app",
+        "kind": 5,
+        "importPath": "api.v1.app",
+        "description": "api.v1.app",
+        "peekOfCode": "my_app = Flask(__name__)\nCORS(my_app, resources={r\"/*\": {\"origins\": \"0.0.0.0\"}})\nmy_app.register_blueprint(app_views)\n@my_app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\n@my_app.errorhandler(NotFound)\ndef handle_404_error(e):\n    \"\"\"",
+        "detail": "api.v1.app",
+        "documentation": {}
+    },
+    {
         "label": "DBStorage",
         "kind": 6,
         "importPath": "models.engine.db_storage",
@@ -1399,7 +2291,7 @@
         "kind": 6,
         "importPath": "models.city",
         "description": "models.city",
-        "peekOfCode": "class City(BaseModel, Base):\n    \"\"\"Representation of city \"\"\"\n    if models.storage_t == \"db\":\n        __tablename__ = 'cities'\n        state_id = Column(String(60), ForeignKey('states.id'), nullable=False)\n        name = Column(String(128), nullable=False)\n        places = relationship(\"Place\", backref=\"cities\")\n    else:\n        state_id = \"\"\n        name = \"\"",
+        "peekOfCode": "class City(BaseModel, Base):\n    \"\"\"Representation of city \"\"\"\n    if models.storage_t == \"db\":\n        __tablename__ = 'cities'\n        state_id = Column(String(60), ForeignKey('states.id'), nullable=False)\n        name = Column(String(128), nullable=False)\n        places = relationship(\"Place\", backref=\"cities\", cascade=\"all, delete\")\n    else:\n        state_id = \"\"\n        name = \"\"",
         "detail": "models.city",
         "documentation": {}
     },
@@ -1426,7 +2318,7 @@
         "kind": 6,
         "importPath": "models.state",
         "description": "models.state",
-        "peekOfCode": "class State(BaseModel, Base):\n    \"\"\"Representation of state \"\"\"\n    if models.storage_t == \"db\":\n        __tablename__ = 'states'\n        name = Column(String(128), nullable=False)\n        cities = relationship(\"City\", backref=\"state\")\n    else:\n        name = \"\"\n    def __init__(self, *args, **kwargs):\n        \"\"\"initializes state\"\"\"",
+        "peekOfCode": "class State(BaseModel, Base):\n    \"\"\"Representation of state \"\"\"\n    if models.storage_t == \"db\":\n        __tablename__ = 'states'\n        name = Column(String(128), nullable=False)\n        cities = relationship(\"City\", backref=\"state\", cascade=\"all, delete\")\n    else:\n        name = \"\"\n    def __init__(self, *args, **kwargs):\n        \"\"\"initializes state\"\"\"",
         "detail": "models.state",
         "documentation": {}
     },
@@ -1435,7 +2327,7 @@
         "kind": 6,
         "importPath": "models.user",
         "description": "models.user",
-        "peekOfCode": "class User(BaseModel, Base):\n    \"\"\"Representation of a user \"\"\"\n    if models.storage_t == 'db':\n        __tablename__ = 'users'\n        email = Column(String(128), nullable=False)\n        password = Column(String(128), nullable=False)\n        first_name = Column(String(128), nullable=True)\n        last_name = Column(String(128), nullable=True)\n        places = relationship(\"Place\", backref=\"user\")\n        reviews = relationship(\"Review\", backref=\"user\")",
+        "peekOfCode": "class User(BaseModel, Base):\n    \"\"\"Representation of a user \"\"\"\n    if models.storage_t == 'db':\n        __tablename__ = 'users'\n        email = Column(String(128), nullable=False)\n        password = Column(String(128), nullable=False)\n        first_name = Column(String(128), nullable=True)\n        last_name = Column(String(128), nullable=True)\n        places = relationship(\"Place\", backref=\"user\", cascade=\"all, delete\")\n        reviews = relationship(\"Review\", backref=\"user\", cascade=\"all, delete\")",
         "detail": "models.user",
         "documentation": {}
     },
@@ -1449,11 +2341,11 @@
         "documentation": {}
     },
     {
-        "label": "TestFileStorage",
+        "label": "TestDBStorage",
         "kind": 6,
         "importPath": "tests.test_models.test_engine.test_db_storage",
         "description": "tests.test_models.test_engine.test_db_storage",
-        "peekOfCode": "class TestFileStorage(unittest.TestCase):\n    \"\"\"Test the FileStorage class\"\"\"\n    @unittest.skipIf(models.storage_t != 'db', \"not testing db storage\")\n    def test_all_returns_dict(self):\n        \"\"\"Test that all returns a dictionaty\"\"\"\n        self.assertIs(type(models.storage.all()), dict)\n    @unittest.skipIf(models.storage_t != 'db', \"not testing db storage\")\n    def test_all_no_class(self):\n        \"\"\"Test that all returns all rows when no class is passed\"\"\"\n    @unittest.skipIf(models.storage_t != 'db', \"not testing db storage\")",
+        "peekOfCode": "class TestDBStorage(unittest.TestCase):\n    \"\"\"Test the FileStorage class\"\"\"\n    @unittest.skipIf(models.storage_t != 'db', \"not testing db storage\")\n    def test_all_returns_dict(self):\n        \"\"\"Test that all returns a dictionaty\"\"\"\n        self.assertIs(type(models.storage.all()), dict)\n    @unittest.skipIf(models.storage_t != 'db', \"not testing db storage\")\n    def test_all_no_class(self):\n        \"\"\"Test that all returns all rows when no class is passed\"\"\"\n    @unittest.skipIf(models.storage_t != 'db', \"not testing db storage\")",
         "detail": "tests.test_models.test_engine.test_db_storage",
         "documentation": {}
     },
@@ -2155,7 +3047,7 @@
         "kind": 2,
         "importPath": "1-pack_web_static",
         "description": "1-pack_web_static",
-        "peekOfCode": "def do_pack():\n    \"\"\"generates a tgz archive\"\"\"\n    try:\n        date = datetime.now().strftime(\"%Y%m%d%H%M%S\")\n        if isdir(\"versions\") is False:\n            local(\"mkdir versions\")\n        file_name = \"versions/web_static_{}.tgz\".format(date)\n        local(\"tar -cvzf {} web_static\".format(file_name))\n        return file_name\n    except:",
+        "peekOfCode": "def do_pack():\n    \"\"\"generates a tgz archive\"\"\"\n    try:\n        date = datetime.now().strftime(\"%Y%m%d%H%M%S\")\n        if isdir(\"versions\") is False:\n            local(\"mkdir versions\")\n        file_name = \"versions/web_static_{}.tgz\".format(date)\n        local(\"tar -cvzf {} web_static\".format(file_name))\n        return file_name\n    except (Exception):",
         "detail": "1-pack_web_static",
         "documentation": {}
     },
@@ -2182,7 +3074,7 @@
         "kind": 2,
         "importPath": "3-deploy_web_static",
         "description": "3-deploy_web_static",
-        "peekOfCode": "def do_pack():\n    \"\"\"generates a tgz archive\"\"\"\n    try:\n        date = datetime.now().strftime(\"%Y%m%d%H%M%S\")\n        if isdir(\"versions\") is False:\n            local(\"mkdir versions\")\n        file_name = \"versions/web_static_{}.tgz\".format(date)\n        local(\"tar -cvzf {} web_static\".format(file_name))\n        return file_name\n    except:",
+        "peekOfCode": "def do_pack():\n    \"\"\"generates a tgz archive\"\"\"\n    try:\n        date = datetime.now().strftime(\"%Y%m%d%H%M%S\")\n        if isdir(\"versions\") is False:\n            local(\"mkdir versions\")\n        file_name = \"versions/web_static_{}.tgz\".format(date)\n        local(\"tar -cvzf {} web_static\".format(file_name))\n        return file_name\n    except (Exception):",
         "detail": "3-deploy_web_static",
         "documentation": {}
     },
